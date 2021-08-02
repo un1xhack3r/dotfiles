@@ -1,0 +1,6 @@
+configuration {
+	modi: "window,drun,ssh,combi";
+	font: "hack 17";
+	theme: "Arc-Dark";
+}
+@import "/usr/share/rofi/themes/sidebar.rasi"
